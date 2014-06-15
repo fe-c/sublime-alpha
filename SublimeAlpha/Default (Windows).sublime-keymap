@@ -1,0 +1,6 @@
+[
+	{ "keys": ["alt+pageup"], "command": "alpha_inc"},
+	{ "keys": ["alt+pagedown"], "command": "alpha_dec" },
+	{ "keys": ["alt+home"], "command": "alpha_on" },
+	{ "keys": ["alt+end"], "command": "alpha_off" }
+]
